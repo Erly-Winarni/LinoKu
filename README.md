@@ -5,6 +5,7 @@ LinoKu adalah aplikasi manajemen produk berbasis Java yang dirancang untuk menge
 **1. Produsen**
 **ID** dimulai dengan `"D-` diikuti 7 digit angka
 **Password** terdiri dari 8 karakter (minimal 1 huruf besar, 1 huruf kecil, dan 1 angka)
+
 **2. Admin**
 **ID** dan **Password** sudah tersedia
 **ID 1**  `E2437152` **Password** `Admin111`
@@ -24,20 +25,26 @@ Semua data disimpan dalam file:
 ## Fitur untuk Produsen
 **1. Tambah Produk**
 Menambahkan produk dengan informasi `nama`, `jenis`, `jumlah`, dan `harga`
+
 **2. Lihat Produk**
 Menampilkan seluruh informasi produk yang tersimpan di file `.txt`
+
 **3. Edit Produk**
 Memilih produk dari daftar untuk mengubah `nama`, `jenis`, `jumlah`, dan `harga`
+
 **4. Konfirmasi Produk**
 Mengkonfirmasi produk yang akan didistribusikan
+
 **5. Hapus Produk**
 Menghapus produk dari daftar
 
 ## Fitur untuk Admin
 **1. Distribusi Produk**
 Memilih produk dari daftar untuk didistribusikan
+
 **2. Tujuan Distribusi**
 Memilih lokasi distribusi
+
 **3. Laporan Distribusi**
 Menampilkan laporan yang terdiri dari:
 1. Nama Produk
