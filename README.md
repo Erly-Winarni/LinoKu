@@ -59,7 +59,10 @@ Menampilkan laporan yang terdiri dari:
 6. Biaya Distribusi
 
 ## Cara Menjalankan
-1. Clone repository atau buka file di IDE seperti NetBeans/Intellij atau jika Anda ingin menjalankan di VS Code juga bisa
+1. Clone repository atau buka file di IDE seperti NetBeans/Intellij. Anda juga dapat menjalankannya menggunakan Visual Studio Code jika diinginkan
+   ```Java
+   git clone https://github.com/Erly-Winarni/LinoKu.git
+   ```
 2. Jalankan file `LinoKuApp.java`
 3. Ikuti alur login dan registrasi sesuai peran pengguna
 4. Data akan otomatis disimpan dan dimuat dalam file `.txt`
