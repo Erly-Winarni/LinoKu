@@ -8,18 +8,22 @@ LinoKu adalah aplikasi manajemen produk berbasis Java yang dirancang untuk menge
 
 **2. Admin**
 **ID** dan **Password** sudah tersedia
+
 **ID 1**  `E2437152` **Password** `Admin111`
+
 **ID 2**  `E2592641` **Password** `Admin222`
 
 ## Registrasi & Login
 * Pengguna memilih peran `Produsen` atau `Admin`
 * Membuat ID dan Password (Password harus terdiri 8 karakter, termasuk huruf besar, huruf kecil, dan angka)
 * Jika ingin login sebagai  `Admin` maka gunakan ID dan Username yang sudah disediakan
-* Data akan disimpan dalam file `user.txt `
+* Data akan disimpan dalam file `users.txt `
 
 ## Penyimpanan Data
 Semua data disimpan dalam file:
 1. `produk.txt`, menyimpan daftar produk
+2. `produkKonfirmasi.txt`, menyimpan data produk yang ingin didistribusikan
+3. `users.txt`, menyimpan data user
    
 
 ## Fitur untuk Produsen
