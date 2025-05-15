@@ -1,5 +1,7 @@
+<h1 align="center"> 💻 LINOKU 💻 </h1> <p align="center"> </p>
+
 # LinoKu
-LinoKu adalah aplikasi manajemen produk berbasis Java yang dirancang untuk mengelola dan mempermudah proses pengiriman  produk lokal dari Desa Malino ke berbagai pasar di Kota Makassar. Aplikasi ini mendukung pengelolaan data produk, menghitung biaya distribusi, serta pelaporan aktivitas secara efisien dan terstruktur.
+LinoKu adalah aplikasi manajemen produk berbasis Java yang dirancang untuk mengelola dan mempermudah proses pengiriman  produk lokal dari Desa Malino ke berbagai pasar di Kota Makassar. Aplikasi ini mendukung pengelolaan data produk, menghitung biaya distribusi, serta pelaporan aktivitas secara efisien dan terstruktur...
 
 ## 🔑 Role Pengguna
 **1. Produsen**
