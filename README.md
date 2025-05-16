@@ -111,7 +111,7 @@ Menampilkan laporan yang terdiri dari:
 ## 🧑‍💻 Anggota dan Pembagian Tugas
 **1. 🛠️ Didit Iqbal Alfaruzy (H071241032)**
 
-File: `Produsen.java` `ProdusenGUI.java`
+**File:** `Produsen.java` `ProdusenGUI.java`
 
 **⚙️Tugas**
 * Mengembangkan kelas Produsen termasuk atribut dan fungsionalitas seperti tambah/edit produk.
@@ -120,7 +120,7 @@ File: `Produsen.java` `ProdusenGUI.java`
 
 **2. 🔐 Erly Winarni (H071241074)**
 
-File: `Produk.java` `LoginPanel.java`
+**File:** `Produk.java` `LoginPanel.java`
 
 **⚙️Tugas**
 * Mendesain kelas Produk dengan properti seperti nama, kategori, jumlah, dan harga.
@@ -130,7 +130,7 @@ File: `Produk.java` `LoginPanel.java`
 
 **3. 📋 Andi Eryn Nur Alisya (H071241066)**
 
-File: `User.java` `RegisterPanel.java`
+**File:** `User.java` `RegisterPanel.java`
 
 **⚙️Tugas**
 * Mengembangkan kelas User sebagai superclass untuk Admin dan Produsen.
@@ -140,7 +140,7 @@ File: `User.java` `RegisterPanel.java`
 
 **4. 🌸 Dewi Astuti Muchtar (H071241034)**
 
-File: `Admin.java` `AdminGUI.java`
+**File:** `Admin.java` `AdminGUI.java`
 
 **⚙️Tugas**
 * Mengembangkan logika dan fitur untuk peran Admin seperti konfirmasi produk dan manajemen produsen.
