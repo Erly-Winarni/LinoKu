@@ -30,8 +30,30 @@ Semua data disimpan dalam file:
 1. `users.txt` menyimpan data pengguna (Produsen dan Admin)
 2. `produk.txt` menyimpan data produk 
 3. `produkKonfirmasi.txt` menyimpan data produk yang ingin didistribusikan
+4. `distribusi.txt` menyimpan data produk yang siap untuk didistribusikan
+5. `laporan.txt` menyimpan seluruh data produk yang sudah didistribusikan
    
+## 🗂️ Struktur Folder
+```
+LinoKu/
+├── src/
+│   ├── Code/
+│   │   ├── Admin.java
+│   │   ├── ILaporan.java
+│   │   ├── Produk.java
+│   │   ├── Produsen.java
+│   │   ├── Role.java
+│   │   └── User.java
+│   ├── Gui/
+│   │   ├── LoginPanel.java
+│   │   ├── AdminGUI.java
+│   │   ├── ProdusenGUI.java
+│   │   └── RegisterPanel.java
+│   └── Main/
+│       └── LinoKuApp.java
 
+```
+    
 ## 👤 Fitur untuk Produsen
 **1. Tambah Produk**
 Menambahkan produk dengan informasi `nama`, `jenis`, `jumlah`, dan `harga`
