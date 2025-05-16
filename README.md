@@ -81,8 +81,8 @@ Memilih lokasi distribusi produk
 Menampilkan laporan yang terdiri dari:
 1. Nama Produk
 2. Jenis Produk
-3. Jumlah Produk
-4. Harga Produk
+3. Harga Produk
+4. Jumlah Produk
 5. Tujuan Distribusi
 6. Biaya Distribusi
 
@@ -91,11 +91,18 @@ Menampilkan laporan yang terdiri dari:
    ```Java
    git clone https://github.com/Erly-Winarni/LinoKu.git
    ```
-2. Buka project menggunakan IDE seperti NetBeans, Intellij IDEA, atau Visual Studio Code
-3. Jalankan file
+2. Buka project Visual Studio Code
+3. Masuk kedalam folder `Main` dan jalankan file
    ```Java
    LinoKuApp.java
    ```
 4. Ikuti alur login atau registrasi sesuai peran pengguna
 5. Data akan otomatis disimpan dan dimuat dalam file `.txt`
+
+## 🧑‍💻 Pembagian Tugas Anggota Kelompok
+**1. Didit Iqbal Alfaruzy (H071241032)**
+**2. Erly Winarni (H071241074)**
+**3. Andi Eryn Nur Alisya (H071241066)**
+**4. Dewi Astuti Muchtar (H071241034)**
+
 
